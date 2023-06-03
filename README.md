@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 지금 현재 깃 학습중입니다.👋
 
 <!--
 **Miiiinsung/Miiiinsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
